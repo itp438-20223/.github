@@ -15,7 +15,11 @@ assignees: ''
 - [ ]  ...
 
 You also need to fix the following warnings:
-[[Please copy/paste the warnings log here!! If there are no warnings, then remove this and the "You also need to..." phrase above.]]
+```
+[[Please copy/paste the warnings log here!!
+If there are no warnings, then remove this and the surrounding paragraphs,
+including the "You also need to..." phrase and the carats.]]
+```
 
 Once you've made these changes, request a regrade.
 
