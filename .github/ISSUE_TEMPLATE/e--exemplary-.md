@@ -1,7 +1,7 @@
 ---
 name: E (Exemplary)
 about: No issues
-title: Lab (#) Grade Report
+title: 'Lab # Grade Report'
 labels: ''
 assignees: ''
 

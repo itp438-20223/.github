@@ -1,7 +1,7 @@
 ---
 name: Z for Code Does Not Compile
-about: If student's code doesn't compile, and it doesn't appear to be a bad push.
-title: Lab (#) Grade Report
+about: If student's code doesn't compile.
+title: 'Lab # Grade Report'
 labels: ''
 assignees: ''
 
@@ -16,4 +16,4 @@ Here are the compile errors we got:
 [[Please copy/paste the compiler errors here!!]]
 ```
 
-_Note: You have up to 1 week upon receipt of this issue to make any resubmissions for a regrade. When you're ready for a regrade, please follow the instructions on Blackboard on how to request a regrade. Keep in mind that only your grade by the end of the regrade period counts._
+_Note: If you believe this is a platform-specific issue (eg. it compiles on your platform/computer), please discuss with your grader or instructor. When you're ready for a regrade, please push your updated code and reply to this issue. Regrades will occur on the schedule as discussed in class. Keep in mind that only your grade by the end of the regrade period counts._
