@@ -13,4 +13,6 @@ assignees: ''
 
 [[Please provide 1-2 sentences of feedback to the student. For example..."When I run the game I just get an empty window and nothing shows up on screen."]]
 
-_Note: If this was a bad push (you committed but did not push), please discuss with your grader or instructor. When you're ready for a regrade, please push your updated code and reply to this issue. Regrades will occur on the schedule as discussed in class. Keep in mind that only your grade by the end of the regrade period counts._
+**IMPORTANT:** If you think this is a mistake (eg. you forgot to push your code or it's possibly a platform issue), please talk to your instructor or grader ASAP. If you can show to us this was the case, then we will still allow you to regrade higher than R.
+
+_Note: When you're ready for a regrade, please push your updated code and reply to this issue. Regrades will occur on the schedule as discussed in class. Keep in mind that only your grade by the end of the regrade period counts. However, keep in mind that a Z initial grade means you cannot regrade higher than R._

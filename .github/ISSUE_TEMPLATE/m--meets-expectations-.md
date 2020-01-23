@@ -12,11 +12,8 @@ assignees: ''
 **Feedback:** Your lab meets the specifications, but has some minor bugs and/or code quality issues. To get an E, you need to fix the following while maintaining an overall E standard of quality:
 - [ ]  Note the first item here
 - [ ]  Note the second item here
-- [ ]  Please fix the following warnings:
-```
-[[Please copy/paste the warnings log here!!
-If there are no warnings, then remove this and the associated bullet.]]
-```
+- [ ]  ...
+- [ ]  **_ONLY INCLUDE THIS BULLET IF STUDENT HAS WARNINGS_** Please fix the warnings in your Travis log. (You need to make sure you have no warnings for this lab on both platforms).
 
 Once you've made these changes, request a regrade.
 
