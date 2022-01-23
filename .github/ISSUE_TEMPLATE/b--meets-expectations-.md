@@ -4,6 +4,7 @@ about: Student meets the spec, but has code quality issues and/or minor bugs.
 title: 'Lab ##### Grade Report'
 labels: ''
 assignees: ''
+
 ---
 
 **Your Current Grade:** B
