@@ -1,7 +1,7 @@
 ---
 name: Grade Report
 about: Use this to submit the grade report from the issue generator.
-title: 'Lab # Grade Report'
+title: 'Lab ##### Grade Report'
 labels: ''
 assignees: ''
 
